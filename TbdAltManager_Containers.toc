@@ -1,7 +1,12 @@
 ## Name: TbdAltManager_Containers
-## Version: 0.1
-## Interface: 100000
+## Version: 1.0
+## Interface: 110107
 ## Notes: Character module for TbdAltManager
 ## SavedVariables: TbdAltManager_Containers_SavedVariables
+## Dependencies: TbdAltManager, TbdWidgets
+## Group: TbdAltManager
+
+## X-Curse-Project-ID: 1115130
 
 TbdAltManager_Containers.lua
+TbdAltManager_Containers.xml
